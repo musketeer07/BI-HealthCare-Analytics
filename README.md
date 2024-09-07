@@ -39,11 +39,11 @@
 <h3>Steps to Run the Analysis</h3>
 <ol>
     <li>Clone this repository to your local machine:
-        <pre><code>git clone https://github.com/username/healthcare-powerbi-analysis.git</code></pre>
+        <pre><code>git clone https://github.com/musketeer07/BI-HealthCare-Analytics.git</code></pre>
     </li>
-    <li>Open <strong>Power BI Desktop</strong> and import the dataset (<code>healthcare_data.csv</code>) provided in this repository.</li>
+    <li>Open <strong>Power BI Desktop</strong> and import the dataset (<code>hospital_discharges.csv</code>) provided in this repository.</li>
     <li>Create a data model by loading the dataset into Power BI and establishing relationships between tables if necessary.</li>
-    <li>Follow the DAX formulas provided in the <code>DAX_Queries.pbix</code> file to perform the required calculations.</li>
+    <li>Follow the DAX formulas provided in the <code>DAX_Queries.txt</code> file to perform the required calculations.</li>
     <li>Develop a 3-page Power BI report using the <strong>Key Influencers</strong> and other advanced visuals.</li>
     <li>Share your insights and recommendations by exporting the report as a PDF or sharing it through the Power BI service.</li>
 </ol>
