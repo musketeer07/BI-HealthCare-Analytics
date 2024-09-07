@@ -67,7 +67,9 @@
 </ul>
 
 ![Page1](Dashboard_images/LOS_Comparison.jpg)
+<br>
 ![Page1](Dashboard_images/Cost_Comparison.jpg)
+<br>
 ![Page1](Dashboard_images/Hospital_Profile.jpg)
 
 <h3>Key Visuals Used:</h3>
