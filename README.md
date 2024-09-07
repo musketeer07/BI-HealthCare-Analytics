@@ -62,11 +62,13 @@
 <p>The final deliverable for this project is a <strong>3-page branded Power BI report</strong>, which includes:</p>
 <ul>
     <li><strong>Page 1</strong>: Overview of hospital performance, with key metrics such as length of stay and cost per discharge.</li>
-    <li><strong>Page 2</strong>: Key Influencers visualization to show the factors driving patient care costs and length of stay.</li>
-    <li><strong>Page 3</strong>: Recommendations and actionable insights for hospital administrators to improve efficiency.</li>
+    <li><strong>Page 2</strong>: Key Influencers visualization to show the factors driving patient care costs and length of stay.</li>    
+    <li><strong>Page 3</strong>: Recommendations and actionable insights for hospital administrators to improve efficiency.</li>   
 </ul>
 
-![Page1] (Dashboard_images/Hospital_Profile.png)
+![Page1](Dashboard_images/LOS_Comparison.jpg)
+![Page1](Dashboard_images/Cost_Comparison.jpg)
+![Page1](Dashboard_images/Hospital_Profile.jpg)
 
 <h3>Key Visuals Used:</h3>
 <ul>
