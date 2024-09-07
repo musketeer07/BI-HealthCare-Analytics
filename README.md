@@ -66,6 +66,8 @@
     <li><strong>Page 3</strong>: Recommendations and actionable insights for hospital administrators to improve efficiency.</li>
 </ul>
 
+![Page1] (Dashboard_images/Hospital_Profile.png)
+
 <h3>Key Visuals Used:</h3>
 <ul>
     <li><strong>Key Influencers</strong>: Analyze what factors are influencing hospital performance.</li>
